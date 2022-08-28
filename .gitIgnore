@@ -1,0 +1,11 @@
+node_modules
+.turbo
+logs
+lib
+public/
+dist/
+.DS_Store
+*.log
+tsconfig.tsbuildinfo
+uploads
+package-lock.json
